@@ -72,14 +72,6 @@ To generate APK:
 ./gradlew assembleDebug
 ```
 
----
-
-## 📷 Screenshots
-
-> Add your app screenshots here to make your project more attractive
-
----
-
 ## 🎯 Future Improvements
 
 * 🔔 Push notifications
